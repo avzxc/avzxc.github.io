@@ -1,0 +1,321 @@
+
+
+<!DOCTYPE html>
+<html>
+    <head>
+        
+<script type="text/javascript">
+    var sampling = Math.random() < 0.001;
+    var page_begintime = (+new Date());
+    (sampling) && ((new Image()).src = "http://isdspeed.qq.com/cgi-bin/r.cgi?flag1=7839&flag2=7&flag3=8&15=1000&r=" + Math.random());
+
+    var biz = "MzA3NjAxOTk4NA==";
+    var sn = "82f0cc2b31159bc548f54e16b769782f";
+    var mid = "201182419" || "";
+    var idx = "1" || "" ;
+    
+    //辟谣需求
+    var is_rumor = ""*1;
+    var norumor = ""*1;
+    if (!!is_rumor&&!norumor){
+      if (!document.referrer || document.referrer.indexOf("mp.weixin.qq.com/mp/rumor") == -1){
+        location.href = location.protocol + "//mp.weixin.qq.com/mp/rumor?action=info&__biz=" + biz + "&mid=" + mid + "&idx=" + idx + "&sn=" + sn + "#wechat_redirect";
+      }
+    }
+</script>
+
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width,initial-scale=1.0,maximum-scale=1.0,user-scalable=0" />
+<link rel="shortcut icon" type="image/x-icon" href="http://res.wx.qq.com/mmbizwap/zh_CN/htmledition/images/icon/common/favicon22c41b.ico">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black">
+<meta name="format-detection" content="telephone=no">
+<script type="text/javascript">
+    var uin = "";
+    var key = "";
+    var pass_ticket = "";
+</script>
+
+        <title>乐活购物</title>
+        
+<link rel="stylesheet" type="text/css" href="http://res.wx.qq.com/mmbizwap/zh_CN/htmledition/style/page/appmsg/page_mp_article_improve22ec5d.css">
+<style>
+        </style>
+<!--[if lt IE 9]>
+<link rel="stylesheet" type="text/css" href="http://res.wx.qq.com/mmbizwap/zh_CN/htmledition/style/page/appmsg/page_mp_article_improve_pc22ebff.css">
+<![endif]-->
+<script type="text/javascript">
+    document.domain = "qq.com";
+</script>
+
+    </head>
+    <body id="activity-detail" class="zh_CN ">
+        
+    <script type="text/javascript">
+        var write_sceen_time = (+new Date());
+        (sampling) && ((new Image()).src = "http://isdspeed.qq.com/cgi-bin/r.cgi?flag1=7839&flag2=7&flag3=8&16=1000&r=" + Math.random());
+    </script>
+    
+    <div id="js_cmt_more" class="discuss_container access" style="display:none;">
+        <div class="discuss_container_inner">
+            <h2 class="rich_media_title" id="activity-name">英国卫裤第七代&nbsp;| 男人，你内裤穿对了吗？？？你考虑过”它“的感受吗？</h2>
+
+            <div class="discuss_list_wrp">
+                <div class="line_tips_wrp">
+                    <span class="line_tips">精选评论<span class="error_tips" id="js_cmt_nofans3" style="display:none">关注该公众号可参与评论</span></span>
+                </div>
+                <p class="discuss_access_tips" id="js_cmt_addbtn3" style="display:none"><a href="#comment">写评论<img class="icon_edit" src="http://res.wx.qq.com/mmbizwap/zh_CN/htmledition/images/icon/appmsg/icon_edit227bf3.png" alt=""></a></p>
+                <ul class="discuss_list" id="js_cmt_morelist"></ul>
+            </div>
+
+            <div class="loadmore" id="js_cmt_more_loading">
+                <div class="tips_wrp">
+                    <img src="http://res.wx.qq.com/mmbizwap/zh_CN/htmledition/images/icon/common/icon_loading_white22c04a.gif" class="loading_icon icon_loading_white" alt="">
+                    <span class="tips">加载中</span>
+                </div>
+            </div>
+
+            <div class="loadmore with_line" id="js_cmt_more_end" style="display:none">
+                <div class="tips_wrp"><span class="tips">以上评论由公众帐号筛选后显示</span></div>
+            </div>
+
+        </div>
+    </div>
+    
+    <div id="js_cmt_mine" class="discuss_container editing access" style="display:none;">
+        <div class="discuss_container_inner">
+            <h2 class="rich_media_title" id="activity-name">英国卫裤第七代&nbsp;| 男人，你内裤穿对了吗？？？你考虑过”它“的感受吗？</h2>
+            <div class="frm_textarea_box_wrp">
+                <span class="frm_textarea_box">
+                    <textarea id="js_cmt_input" class="frm_textarea" placeholder="评论将由公众帐号筛选后显示，对所有人可见。"></textarea>
+                </span>
+            </div>
+            <div class="discuss_btn_wrp"><a id="js_cmt_submit" class="btn btn_inline btn_primary btn_discuss btn_disabled" href="javascript:;">提交</a></div>
+            <div class="discuss_list_wrp" style="display:none">
+                <div class="line_tips_wrp">
+                    <span class="line_tips">我的评论</span>
+                </div>
+                <ul class="discuss_list" id="js_cmt_mylist"></ul>
+            </div>
+            <div class="wx_poptips" id="js_cmt_toast" style="display:none;">
+                <img alt="" class="icon_toast" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGoAAABqCAYAAABUIcSXAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAA3NpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuNS1jMDE0IDc5LjE1MTQ4MSwgMjAxMy8wMy8xMy0xMjowOToxNSAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wTU09Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9tbS8iIHhtbG5zOnN0UmVmPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvc1R5cGUvUmVzb3VyY2VSZWYjIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtcE1NOk9yaWdpbmFsRG9jdW1lbnRJRD0ieG1wLmRpZDoyMTUxMzkxZS1jYWVhLTRmZTMtYTY2NS0xNTRkNDJiOGQyMWIiIHhtcE1NOkRvY3VtZW50SUQ9InhtcC5kaWQ6MTA3QzM2RTg3N0UwMTFFNEIzQURGMTQzNzQzMDAxQTUiIHhtcE1NOkluc3RhbmNlSUQ9InhtcC5paWQ6MTA3QzM2RTc3N0UwMTFFNEIzQURGMTQzNzQzMDAxQTUiIHhtcDpDcmVhdG9yVG9vbD0iQWRvYmUgUGhvdG9zaG9wIENDIChNYWNpbnRvc2gpIj4gPHhtcE1NOkRlcml2ZWRGcm9tIHN0UmVmOmluc3RhbmNlSUQ9InhtcC5paWQ6NWMyOGVjZTMtNzllZS00ODlhLWIxZTYtYzNmM2RjNzg2YjI2IiBzdFJlZjpkb2N1bWVudElEPSJ4bXAuZGlkOjIxNTEzOTFlLWNhZWEtNGZlMy1hNjY1LTE1NGQ0MmI4ZDIxYiIvPiA8L3JkZjpEZXNjcmlwdGlvbj4gPC9yZGY6UkRGPiA8L3g6eG1wbWV0YT4gPD94cGFja2V0IGVuZD0iciI/Pmvxj1gAAAVrSURBVHja7J15rF1TFMbXk74q1ZKHGlMkJVIhIgg1FH+YEpEQJCKmGBpThRoSs5jVVNrSQUvEEENIhGiiNf9BiERICCFIRbUiDa2qvudbOetF3Tzv7XWGffa55/uS7593977n3vO7e5+199p7v56BgQGh0tcmvAUERREUQVEERREUQVEERREUQVEERREUQVEERREUQVEERREUQVEERVAUQVEERVAUQbVYk+HdvZVG8b5F0xj4RvhouB+eCy8KrdzDJc1RtAX8ILxvx98V1GyCSkN98Cx4z/95/Wn4fj6j6tUEeN4wkFSnw1MJqj5NhBfAuwaUHREUg4lqNMmePVsHll/HFhVfe1t3FwpJI8DXCCquDrCWNN4B6Tb4M3Z98aTPmTvh0YHl18PXw29yZiKejoPvcUD6E74yFBJbVDk6Bb7K8aP/Hb4c/tRzEYIqprPhSxzlf4Uvhb/0Xoig8qnHAJ3lqPMzfDH8XZ4LEpRf2sVdA5/sqPO9Qfop70UJyn+/boaPddT5yrq7VUUvTIVJI7q74MMddXR8NB1eXcYvhBpZm0s2w72/o86HFoKvLau/pYaXzjLMdUJ6y0LwtWV9CIIaXtvA8+G9HHV03u5q+K+yH47U0NoRngPv7KjzHDwTLj0bS1BDazfJJlcnOOostC6ysnCT+q80G/sIvFVgeW09D8FPVT0uoP7VfvAD8NjA8pqmuAN+OcYAjso0RbIZ8DGB5TVNcRO8JMaHY9SXSdfa3eeANJimWBLrA7JFiZwIXye+NMUV8CcxP2SRFjXefok7NRjSGZJlWUPvw2/wtNiQirSoXWyMsR28wR7AzzYM0oXw+Y7yK+CLJGeaoqjyrJSdZJD6Ov4+z5y6NJc0Az7NUecHydIUy+v60KNyQHoM3nKI1y7YCFiq0i7uBvgER52vDdKqWn9djhY1Dn4G3n6Ecqm2rF74dvgoR53S0hQxW9RJAZAGW5bSn58QJA27dQ7uIEedjywEX5NKVxCqsY6y+qA+LxFI4+yZ6oH0trWkNan80jygtIUsc5SflgAsDXgehfdx1KkkTRE76tN+Xue2jnTU0Ru1oIbvpt30bBtKhOp5yaaRkts0lic8V1i6dPcIRx2d/l8Y8XtNNEg7OOo8bl1kmmOKnDsO88CaYzejau0hWZqiL7C83oCH4SeTHvwV2BqqsHRVztSEYOmWF80NeXZT6Hd4KflResE9vCnBOlCyGfDNAstHTVPUDWoQ1t3iW+9WNizvlhfd4aerXd+ThqiMfNR6+9LvOOro5OY5JX2H4+F7HZD+kGzlamMgldWiirQsjcwWFbjmqZJteekJLK9pisvgL6RhKvuciZiwzrWWGapfrPy30kBVcSBIrw0aD3PU0XB6cehntq7rTMf7/2iQlktDVdXJLXlg6VjmiYBn6rWSTRCH6hvJ0hQrpcGq8oidsmHpTP8t8DGO9/vcWt9qabiqPgup1yKyQwvC2tSefZ73SSpNkUJ4PlLorlHZ+446nc8f3fIyywlJhwrTuwVSjBa1ccvSxN0hjjoK5xVrYZMd9V6XbFfgBukixTwGLg8sDam3dZR/wZ6L/dJlin1en8LS+bgpFbz3Ygvzu1J1HKxYNqxGpCmaCEo12rrBorD6LRp8UbpcdR5VWhTW35KlKd6QFqjuM2XzwlpnMxTvSkuUwuG/Xlg6NtPjbT6WFimF/VG6LEvXgn8QGDjMbBukVECFwhpoS+CQatfX2Q1q6H7wENHdrfCr0lKleEB9JyxNneus+VJpsVL9TwI6W65LovWIGl3KtVJaLv7LBwYTFEERFEVQFEERFEVQFEERFEVQFEERFEVQFEERFEVQFEERFFWq/hFgADUMN4RzT6/OAAAAAElFTkSuQmCC">
+                <p class="toast_content">已评论</p>
+            </div>
+        </div>
+    </div>
+
+    <div id="js_article" class="rich_media">
+        
+        <div id="js_top_ad_area" class="top_banner"></div>
+                
+        <div class="rich_media_inner">
+            <h2 class="rich_media_title" id="activity-name">
+                英国卫裤第七代&nbsp;| 男人，你内裤穿对了吗？？？你考虑过”它“的感受吗？ 
+            </h2>
+            <div class="rich_media_meta_list">
+                <em id="post-date" class="rich_media_meta rich_media_meta_text">2014-11-01</em>
+
+                                <a class="rich_media_meta rich_media_meta_link rich_media_meta_nickname" href="javascript:void(0);" id="post-user">乐活购物</a>
+            </div>
+
+            <div id="page-content">
+                <div id="img-content">
+                    
+                                                            
+                                        <div class="rich_media_thumb_wrp" id="media">
+                        <script>
+                            (function(){
+                                var cover = "http://mmbiz.qpic.cn/mmbiz/gB7yLNibDqW5qK0ZYeia1CNamdsicXlDPzTtpme5KwPWsuTWFd6hYa60xzKnpkOxLsKe93K3dXDDmbzAjjngC6PZg/0";
+                                document.write('<img class="rich_media_thumb" id="js_cover" onerror="this.parentNode.removeChild(this)" data-src="' + cover + '" />');
+                            })();
+                        </script>
+                    </div>
+                                        
+                    <div class="rich_media_content" id="js_content"><p style=""><strong style="max-width: 100%; word-wrap: break-word !important; box-sizing: border-box !important;"><span style="max-width: 100%; word-wrap: break-word !important; box-sizing: border-box !important; color: rgb(255, 0, 0); background-color: rgb(255, 255, 0);">你，性福吗？</span></strong></p><p style="">日前公布的一项“2011全球性福调查报告”称，中国人群的性生活频率高于全球平均值，但满意度在下降，<strong style="max-width: 100%; word-wrap: break-word !important; box-sizing: border-box !important;"><span style="max-width: 100%; word-wrap: break-word !important; box-sizing: border-box !important; color: rgb(255, 0, 0); background-color: rgb(255, 255, 0);">76%的女性对自己的性伴侣不满意，</span></strong>因为阴茎小，时间短，女性往往刚开始享受，对方就已经结束了。</p><p><img data-s="300,640" data-src="http://mmbiz.qpic.cn/mmbiz/gB7yLNibDqW6CJUecRry4I57QK2DC9nPRicOn6R2ibcdnM4Pf0PSJnvYtlrfyMho07ICSGjU6dfF6Dibj4cCBrxsyA/0" data-ratio="0.66" data-w="500"  /></p><p><span style="">在一项中国性满意度大调查中显示：</span><strong style=""><span style="max-width: 100%; word-wrap: break-word !important; box-sizing: border-box !important; color: rgb(255, 0, 0); background-color: rgb(255, 255, 0);">70％的男性评分值低于60分。</span></strong><span style="">如果我们把60分看成是及格线的话，就意味着70％的人在这一指标上不及格！真是太震惊了！！</span></p><p><span style=""><img data-s="300,640" data-src="http://mmbiz.qpic.cn/mmbiz/gB7yLNibDqW6CJUecRry4I57QK2DC9nPRrlCKDuUibPQwzZxbISJIQvz7g8yfjXdohb4PAzgWZo28dSEibc2A685A/0" data-ratio="1.023715415019763" data-w=""  /></span></p><p><span style=""><span style=""><strong style="max-width: 100%; word-wrap: break-word !important; box-sizing: border-box !important;"><span style="max-width: 100%; word-wrap: break-word !important; box-sizing: border-box !important; padding: 0px; margin: 0px; background-color: rgb(255, 255, 0);">近年性学研究发现:</span></strong></span><br style=""  /><span style="">G点神经元才是女性全身性敏感最高的位置，G点神经元却位于阴道内约15.7公分位置，说明如果阴茎不够15.7公分，也刺激不了G点神经元，女性就很难到性高潮。<strong style="max-width: 100%; word-wrap: break-word !important; box-sizing: border-box !important;"><span style="max-width: 100%; word-wrap: break-word !important; box-sizing: border-box !important; color: rgb(255, 0, 0); background-color: rgb(255, 255, 0);">男性阴茎长度高于15.7公分，方能彻底激发女性兴奋点</span></strong>。赶紧拿出尺子量量自己有没有拖后腿吧！！！</span></span></p><p><span style=""><span style=""><img data-s="300,640" data-src="http://mmbiz.qpic.cn/mmbiz/gB7yLNibDqW6CJUecRry4I57QK2DC9nPRq1k8vgVtsU4bak0LhP66BXia4eLIlicN1ScU15GG5RMy65Q6VmDvQhSg/0" data-ratio="0.9762845849802372" data-w=""  /></span></span></p><p><span style=""><span style=""></span></span></p><p style="">因为抽烟，因为不规律的生活习惯......</p><p style="">再也不能给她性福生活。</p><p style="">西药吃了，中药用了，甚至连民间的偏方也用了，还是不见起色！！！</p><p style=""><strong style="max-width: 100%; word-wrap: break-word !important; box-sizing: border-box !important;"><span style="max-width: 100%; word-wrap: break-word !important; box-sizing: border-box !important; color: rgb(255, 0, 0); background-color: rgb(255, 255, 0);">你知道哪里除了问题吗？<br style="max-width: 100%; word-wrap: break-word !important; box-sizing: border-box !important;"  /></span></strong></p><p style=""><strong style="max-width: 100%; word-wrap: break-word !important; box-sizing: border-box !important;"><span style="max-width: 100%; word-wrap: break-word !important; box-sizing: border-box !important; color: rgb(255, 0, 0); background-color: rgb(255, 255, 0);">是你穿错了“内裤”！！！</span></strong></p><p><img data-s="300,640" data-src="http://mmbiz.qpic.cn/mmbiz/gB7yLNibDqW6CJUecRry4I57QK2DC9nPRlibmwBia73rOaacpiaapFfgvFmTgaJj2eUKhysUy82IXsehibU4xVcDgGQ/0" data-ratio="0.8913043478260869" data-w=""  /><span style=""><span style=""><br  /></span></span></p><p style="">不要以为不像超人一样内裤外穿，</p><p style="">就随随便便给自己的“家伙”安一个家，</p><p style="">一条好的内裤能够拯救你的英雄“器”短！</p><p style=""><strong style="max-width: 100%; word-wrap: break-word !important; box-sizing: border-box !important;"><span style="max-width: 100%; word-wrap: break-word !important; box-sizing: border-box !important; color: rgb(255, 0, 0); background-color: rgb(255, 255, 0);">让它“bigger than bigger”的秘密——英国第七代磁能量健康内裤。</span></strong></p><p><img data-s="300,640" data-src="http://mmbiz.qpic.cn/mmbiz/gB7yLNibDqW6CJUecRry4I57QK2DC9nPRwwQiaYImbLtCZ03kTnRo6S1y7Llt8qqmpV8aboMQicvb430vhfiasOpeQ/0" style="" data-ratio="0.7430830039525692" data-w=""  /></p><p><img data-s="300,640" data-src="http://mmbiz.qpic.cn/mmbiz/gB7yLNibDqW6CJUecRry4I57QK2DC9nPRxyFbSO1blsmfSGyJhwAsh5licyjhZp2RwoicaibIibBPjEKhZdlOJh4OCg/0" style="" data-ratio="0.7430830039525692" data-w=""  /></p><p style="">同样都是内裤，为什么要选择英国第七代卫裤——<strong style="max-width: 100%; word-wrap: break-word !important; box-sizing: border-box !important;"><span style="max-width: 100%; word-wrap: break-word !important; box-sizing: border-box !important; color: rgb(255, 0, 0); background-color: rgb(255, 255, 0);">我们给你6个不能拒绝的理由：</span></strong></p><p style="">1：18枚永久磁石，帮助你促进血液循环，恢复体力，提高免疫力。</p><p><img data-src="http://mmbiz.qpic.cn/mmbiz/gB7yLNibDqW6CJUecRry4I57QK2DC9nPRn8WKCpRhE3On0sgDLyjqJTSD2zxrDb0ia6ndVmHPItCJMqj2Z2j5RoA/0" data-ratio="1" data-w=""  /></p><p><img data-s="300,640" data-src="http://mmbiz.qpic.cn/mmbiz/gB7yLNibDqW6CJUecRry4I57QK2DC9nPR0y675qiaP06xWv6czPGRzQ7EzcN7zUpwuXaN5JYpcAEiaMIWhEib9AZVw/0" style="" data-ratio="0.6936758893280632" data-w=""  /></p><p><img data-s="300,640" data-src="http://mmbiz.qpic.cn/mmbiz/gB7yLNibDqW6CJUecRry4I57QK2DC9nPRHBUNXZ42Zibp4Jks1w8BKObEiboZPRDURzx2ybzvbNobWNjAFaibcXPjA/0" style="" data-ratio="0.6936758893280632" data-w=""  /></p><p><span style="">2：立体U形设计，为它创造更有利的散热环境。</span></p><p><span style=""><img data-src="http://mmbiz.qpic.cn/mmbiz/gB7yLNibDqW6CJUecRry4I57QK2DC9nPR4IPcibXzuOSYL7EOFM6EpRt0t43UAkETSHibWSkk0bFJryFswelib97ibA/0" data-ratio="1" data-w=""  /></span></p><p><span style=""><span style="">3：静态按摩，缓解肾虚腰痛。</span></span></p><p><span style=""><span style=""><img data-src="http://mmbiz.qpic.cn/mmbiz/gB7yLNibDqW6CJUecRry4I57QK2DC9nPR0oZxI4pLgQ2oTicplbVVNvk7qB9u2Oib0GibicXiaxFk7v8XYApAicqHHS4w/0" data-ratio="1" data-w=""  /></span></span></p><p><span style=""><span style=""><span style="">4：398个托玛琳矿物石涂点，活化细胞，提高免疫力。</span></span></span></p><p><span style=""><span style=""><span style=""><img data-s="300,640" data-src="http://mmbiz.qpic.cn/mmbiz/gB7yLNibDqW6CJUecRry4I57QK2DC9nPR4qicbnjE0H3aDjbjLNmVJ8YjzKhFfhjiad4wKhbZTE9kvB3bDZQLWbNw/0" data-ratio="1" data-w=""  /></span></span></span></p><p><span style=""><span style=""><span style=""><span style="">5：远红外纤维释放热能，清除血液囤积物，调节私处健康环境。</span></span></span></span></p><p><span style=""><span style=""><span style=""><span style=""><img data-src="http://mmbiz.qpic.cn/mmbiz/gB7yLNibDqW6CJUecRry4I57QK2DC9nPRrduKHeiaTzBelE6VevQsRQ95DLbiakBv4MMJMiaMt3RZ1c3jicAICKJXGA/0" data-ratio="1" data-w=""  /></span></span></span></span></p><p><span style=""><span style=""><span style=""><span style=""><span style="">6：磁石缝制技术，安全舒爽无危害。</span></span></span></span></span></p><p><span style=""><span style=""><span style=""><span style=""><span style=""><img data-src="http://mmbiz.qpic.cn/mmbiz/gB7yLNibDqW6CJUecRry4I57QK2DC9nPRDruBEWHrxOtLhFWB8CiaNvVt2Xx9ZllibbCojDu7HzCWUMZ3VuvWhFzQ/0" data-ratio="1" data-w=""  /></span></span></span></span></span></p><p><br  /></p><p><strong><span style="color: rgb(255, 255, 0); background-color: rgb(192, 0, 0);">来看看买家反馈吧！</span></strong></p><p><br  /></p><p><img data-s="300,640" data-src="http://mmbiz.qpic.cn/mmbiz/gB7yLNibDqW5qK0ZYeia1CNamdsicXlDPzTRngN2WYBngVymkMr8yiaib6E7CwpGtPozpPafvibR4ibUvQ864mGEOh2Gg/0" style="" data-ratio="1.5" data-w=""  /></p><p><img data-s="300,640" data-src="http://mmbiz.qpic.cn/mmbiz/gB7yLNibDqW5qK0ZYeia1CNamdsicXlDPzTUS2HdJnlyb9hkmqD1cJLjcRwicEdcWcqkhsFHJk0tI6CeTsAoGLu48A/0" style="" data-ratio="1.5" data-w=""  /></p><p><br  /></p><p style="">英国第七代磁能量健康内裤。<br style="max-width: 100%; word-wrap: break-word !important; box-sizing: border-box !important;"  /></p><p style="">带磁的内裤，这是什么原理？</p><p style="">里面带磁吗？带磁的怎么穿？</p><p style="">想必大家都有这个问题。</p><p style="">其实用磁治病可以追溯到汉代，司马迁就记载了一种叫”磁石“的天然矿石，可以用来治疗疾病。在《本草纲目》和《中药大辞典》中都有记载：<strong style="max-width: 100%; word-wrap: break-word !important; box-sizing: border-box !important;"><span style="max-width: 100%; word-wrap: break-word !important; box-sizing: border-box !important; color: rgb(255, 0, 0); background-color: rgb(255, 255, 0);">磁疗法可以引起人体神经，体液代谢等变化，有活血化瘀，消肿止痛消炎等功效。</span></strong></p><p><img data-s="300,640" data-src="http://mmbiz.qpic.cn/mmbiz/gB7yLNibDqW6CJUecRry4I57QK2DC9nPR1EhiboyoTBs2kbNTianVxpAXewUEYfTxKAH0wfT4I7qfBqBlKzGpRiamQ/0" data-ratio="0.7272727272727273" data-w=""  /></p><p><span style="background-color: rgb(255, 255, 255);"><span style="background-color: rgb(255, 255, 255);"><span style="background-color: rgb(255, 255, 255);"><span style="background-color: rgb(255, 255, 255);"><span style="background-color: rgb(255, 255, 255);"><span style="">你是否会产生磁饥饿：</span></span></span></span></span></span><br  /></p><p><span style="background-color: rgb(255, 255, 255);"><span style="background-color: rgb(255, 255, 255);"><span style="background-color: rgb(255, 255, 255);"><span style="background-color: rgb(255, 255, 255);"><span style="background-color: rgb(255, 255, 255);"><span style=""><img data-s="300,640" data-src="http://mmbiz.qpic.cn/mmbiz/gB7yLNibDqW6CJUecRry4I57QK2DC9nPR7ialrLiaK98IWA1hdBu7vebspgwPZrWlFWZKFsfx2I8lotD3uNDPM9icg/0" data-ratio="0.383399209486166" data-w=""  /></span></span></span></span></span></span></p><p><br  /></p><p style="">研究表明，这5项中占到其中3项以上，久而久之，人体便会出现磁饥饿症状。那么这时候，你就需要补充磁能了。</p><p style=""><br style="max-width: 100%; word-wrap: break-word !important; box-sizing: border-box !important;"  /></p><p style=""><strong style="max-width: 100%; word-wrap: break-word !important; box-sizing: border-box !important;"><span style="max-width: 100%; word-wrap: break-word !important; box-sizing: border-box !important; color: rgb(255, 255, 255); background-color: rgb(255, 0, 0);">选择英国第七代卫裤9大好处：</span></strong></p><p><img data-s="300,640" data-src="http://mmbiz.qpic.cn/mmbiz/gB7yLNibDqW6CJUecRry4I57QK2DC9nPRTg296d8lTbmTt1SALU2XkRrg6jDH3iay4VFuAZxibP7yiaXHevfo62fRg/0" data-ratio="0.6837944664031621" data-w=""  /></p><p><br  /></p><p style=""><strong style="max-width: 100%; word-wrap: break-word !important; box-sizing: border-box !important;"><span style="max-width: 100%; word-wrap: break-word !important; box-sizing: border-box !important; color: rgb(255, 255, 255); background-color: rgb(255, 0, 0);">英国卫裤您多长时间能看到效果？</span></strong><br style="max-width: 100%; word-wrap: break-word !important; box-sizing: border-box !important;"  /></p><p style=""><strong style="max-width: 100%; word-wrap: break-word !important; box-sizing: border-box !important;"><span style="max-width: 100%; word-wrap: break-word !important; box-sizing: border-box !important; color: rgb(255, 0, 0); background-color: rgb(255, 255, 0);">15天</span></strong>——您会感到下体温暖，您会频繁出现晨勃想象！</p><p style=""><strong style="max-width: 100%; word-wrap: break-word !important; box-sizing: border-box !important;"><span style="max-width: 100%; word-wrap: break-word !important; box-sizing: border-box !important; color: rgb(255, 0, 0); background-color: rgb(255, 255, 0);">30天</span></strong>——您会发现阴茎增加了1.2厘米左右，而且您会性欲增强、更持久、更愉快、房事后不疲倦！</p><p style=""><strong style="max-width: 100%; word-wrap: break-word !important; box-sizing: border-box !important;"><span style="max-width: 100%; word-wrap: break-word !important; box-sizing: border-box !important; color: rgb(255, 0, 0); background-color: rgb(255, 255, 0);">60天</span></strong>——您的阴茎会足足增大2.54厘米左右，增粗大约5%，您会变得激情澎湃、收缩自如、时间延长</p><p style=""><strong style="max-width: 100%; word-wrap: break-word !important; box-sizing: border-box !important;"><span style="max-width: 100%; word-wrap: break-word !important; box-sizing: border-box !important; color: rgb(255, 0, 0); background-color: rgb(255, 255, 0);">90天</span></strong>——大约增加到3-4厘米左右，增粗了10%！肾气旺盛，随心所欲！</p><p style=""><strong style="max-width: 100%; word-wrap: break-word !important; box-sizing: border-box !important;"><span style="max-width: 100%; word-wrap: break-word !important; box-sizing: border-box !important; color: rgb(255, 0, 0); background-color: rgb(255, 255, 0);">120-180天</span></strong>——最多增加了5-6厘米左右，增粗了20%！精力充沛、免疫力增强、阴茎越发强壮！</p><p><img data-s="300,640" data-src="http://mmbiz.qpic.cn/mmbiz/gB7yLNibDqW6CJUecRry4I57QK2DC9nPRYicntdL4T36oxoJVRPonMcgHZCgKxtD946KPyTZtmAbViacvyoAQq2eg/0" data-ratio="1.033596837944664" data-w=""  /></p><p><br  /></p><p style=""><strong style="max-width: 100%; word-wrap: break-word !important; box-sizing: border-box !important;"><span style="max-width: 100%; word-wrap: break-word !important; box-sizing: border-box !important; color: rgb(255, 255, 255); background-color: rgb(255, 0, 0);">洗涤方式：</span></strong></p><p style=""><span style="max-width: 100%; word-wrap: break-word !important; box-sizing: border-box !important;"><strong style="max-width: 100%; word-wrap: break-word !important; box-sizing: border-box !important;"><span style="max-width: 100%; word-wrap: break-word !important; box-sizing: border-box !important; color: rgb(255, 0, 0); background-color: rgb(255, 255, 0);">亲们，卫裤千万<span style="max-width: 100%; word-wrap: break-word !important; box-sizing: border-box !important;">不要机洗</span>哦，否则会降低寿命，也<span style="max-width: 100%; word-wrap: break-word !important; box-sizing: border-box !important;">不要长时间浸泡</span>。</span></strong><strong style="max-width: 100%; word-wrap: break-word !important; box-sizing: border-box !important;"><span style="max-width: 100%; word-wrap: break-word !important; box-sizing: border-box !important; color: rgb(255, 0, 0); background-color: rgb(255, 255, 0);">最好的方式是</span></strong><strong style="max-width: 100%; word-wrap: break-word !important; box-sizing: border-box !important;"><span style="max-width: 100%; word-wrap: break-word !important; box-sizing: border-box !important; color: rgb(255, 0, 0); background-color: rgb(255, 255, 0);">手洗，用中性洗涤剂，低于40度的水温，勿用力拧绞。</span></strong><strong style="max-width: 100%; word-wrap: break-word !important; box-sizing: border-box !important;"><span style="max-width: 100%; word-wrap: break-word !important; box-sizing: border-box !important; color: rgb(255, 0, 0); background-color: rgb(255, 255, 0);">不要在高温下暴晒，也不需要熨烫，好的内裤需要保养。</span></strong></span></p><p style=""><strong style="max-width: 100%; word-wrap: break-word !important; box-sizing: border-box !important;"><span style="max-width: 100%; word-wrap: break-word !important; box-sizing: border-box !important; color: rgb(255, 0, 0); background-color: rgb(255, 255, 0);">要轻柔的对待你的内裤哦！</span></strong></p><p><img data-s="300,640" data-src="http://mmbiz.qpic.cn/mmbiz/gB7yLNibDqW6CJUecRry4I57QK2DC9nPRRKlWF8xeUYlz40SZmOAUXeenywpVsHictcL10W00jyRsT2XkgyS6RSw/0" style="" data-ratio="1.2771618625277161" data-w="451"  /></p><p><img data-s="300,640" data-src="http://mmbiz.qpic.cn/mmbiz/gB7yLNibDqW6CJUecRry4I57QK2DC9nPRoxs4b2qnSdahBRzUZTqpZLkKCpthhOibQXgRyI1niam7V2Y2Iyiac347g/0" style="" data-ratio="0.8853754940711462" data-w=""  /></p><p style=""><strong style="max-width: 100%; word-wrap: break-word !important; box-sizing: border-box !important;"><span style="max-width: 100%; word-wrap: break-word !important; box-sizing: border-box !important; color: rgb(255, 0, 0); background-color: rgb(255, 255, 0);">男人的难言之隐，一条内裤帮你搞定。</span></strong></p><p style=""><strong style="max-width: 100%; word-wrap: break-word !important; box-sizing: border-box !important;"><span style="max-width: 100%; word-wrap: break-word !important; box-sizing: border-box !important; color: rgb(255, 0, 0); background-color: rgb(255, 255, 0);">选对一条好内裤，就像选对一个好老婆！！！</span></strong></p><p style=""><br style="max-width: 100%; word-wrap: break-word !important; box-sizing: border-box !important;"  /></p><p style="">你买的不是内裤，是健康；</p><p style="">你买的不是内裤，是性福；</p><p style="">你买的不是内裤，是家庭和睦。</p><p><br  /></p><p><span style="background-color: rgb(255, 255, 255);"><span style="background-color: rgb(255, 255, 255);"><span style="background-color: rgb(255, 255, 255);"><span style="background-color: rgb(255, 255, 255);"><span style="background-color: rgb(255, 255, 255);"><span style="background-color: rgb(255, 255, 255);"><img data-s="300,640" data-src="http://mmbiz.qpic.cn/mmbiz/gB7yLNibDqW6CJUecRry4I57QK2DC9nPRKEA8aZOfic2S2Ur1VuKv6rkjOWDGWoUckic4sJmWuNViafueoqiciakEUQA/0" data-ratio="1" data-w="40"  /></span></span></span></span></span></span><strong style=""><span style="max-width: 100%; word-wrap: break-word !important; box-sizing: border-box !important; color: rgb(255, 0, 0); background-color: rgb(255, 255, 0);">活动价格：</span></strong></p><p style="">1：<strong style="max-width: 100%; word-wrap: break-word !important; box-sizing: border-box !important;"><span style="max-width: 100%; word-wrap: break-word !important; box-sizing: border-box !important; color: rgb(255, 255, 255); background-color: rgb(255, 0, 0);">买1条英国第七代卫裤</span></strong><strong style="max-width: 100%; word-wrap: break-word !important; box-sizing: border-box !important;"><span style="max-width: 100%; word-wrap: break-word !important; box-sizing: border-box !important; color: rgb(255, 0, 0); background-color: rgb(255, 255, 0);">只需<strong style="max-width: 100%; word-wrap: break-word !important; box-sizing: border-box !important;"><span style="max-width: 100%; word-wrap: break-word !important; box-sizing: border-box !important; color: rgb(255, 255, 255); background-color: rgb(0, 176, 240);"><strong style="max-width: 100%; word-wrap: break-word !important; box-sizing: border-box !important; white-space: normal;"><span style="max-width: 100%; word-wrap: break-word !important; box-sizing: border-box !important; color: rgb(255, 0, 0); background-color: rgb(255, 255, 0);"><strong style="max-width: 100%; word-wrap: break-word !important; box-sizing: border-box !important;"><span style="max-width: 100%; word-wrap: break-word !important; box-sizing: border-box !important; color: rgb(255, 255, 255); background-color: rgb(0, 176, 240);"><strong style="max-width: 100%; word-wrap: break-word !important; box-sizing: border-box !important;"><span style="max-width: 100%; word-wrap: break-word !important; box-sizing: border-box !important; color: rgb(255, 0, 0); background-color: rgb(255, 255, 0);"><strong style="max-width: 100%; word-wrap: break-word !important; box-sizing: border-box !important;"><strong style="max-width: 100%; word-wrap: break-word !important; box-sizing: border-box !important;"><strong style="max-width: 100%; word-wrap: break-word !important; box-sizing: border-box !important;"><strong style="max-width: 100%; word-wrap: break-word !important; box-sizing: border-box !important;"><span style="max-width: 100%; word-wrap: break-word !important; box-sizing: border-box !important; color: rgb(255, 255, 255); background-color: rgb(0, 176, 240);"><strong style="max-width: 100%; word-wrap: break-word !important; box-sizing: border-box !important;"><span style="max-width: 100%; word-wrap: break-word !important; box-sizing: border-box !important; color: rgb(255, 0, 0); background-color: rgb(255, 255, 0);"><strong style="max-width: 100%; word-wrap: break-word !important; box-sizing: border-box !important;"><strong style="max-width: 100%; word-wrap: break-word !important; box-sizing: border-box !important;"><strong style="max-width: 100%; word-wrap: break-word !important; box-sizing: border-box !important;"><span style="max-width: 100%; word-wrap: break-word !important; box-sizing: border-box !important; color: rgb(255, 255, 255); background-color: rgb(0, 176, 240);"><strong style="max-width: 100%; word-wrap: break-word !important; box-sizing: border-box !important;"><span style="max-width: 100%; word-wrap: break-word !important; box-sizing: border-box !important; color: rgb(255, 0, 0); background-color: rgb(255, 255, 0);">198</span></strong></span></strong></strong></strong></span></strong></span></strong></strong></strong></strong></span></strong></span></strong></span></strong></span></strong></span></strong>元。不用吃药，不用手术，只要一条内裤，告别“小器”男人，效果真是太惊人了！</p><p style="">2：<strong style="max-width: 100%; word-wrap: break-word !important; box-sizing: border-box !important;"><span style="max-width: 100%; word-wrap: break-word !important; box-sizing: border-box !important; color: rgb(255, 255, 255); background-color: rgb(255, 0, 0);">买2条送1条英国第七代卫裤</span></strong><strong style="max-width: 100%; word-wrap: break-word !important; box-sizing: border-box !important;"><span style="max-width: 100%; word-wrap: break-word !important; box-sizing: border-box !important; color: rgb(255, 0, 0); background-color: rgb(255, 255, 0);">只需<strong style="max-width: 100%; word-wrap: break-word !important; box-sizing: border-box !important;"><span style="max-width: 100%; word-wrap: break-word !important; box-sizing: border-box !important; color: rgb(255, 255, 255); background-color: rgb(0, 176, 240);"><strong style="max-width: 100%; word-wrap: break-word !important; box-sizing: border-box !important; white-space: normal;"><span style="max-width: 100%; word-wrap: break-word !important; box-sizing: border-box !important; color: rgb(255, 0, 0); background-color: rgb(255, 255, 0);"><strong style="max-width: 100%; word-wrap: break-word !important; box-sizing: border-box !important;"><strong style="max-width: 100%; word-wrap: break-word !important; box-sizing: border-box !important;"><span style="max-width: 100%; word-wrap: break-word !important; box-sizing: border-box !important; color: rgb(255, 255, 255); background-color: rgb(0, 176, 240);"><strong style="max-width: 100%; word-wrap: break-word !important; box-sizing: border-box !important;"><span style="max-width: 100%; word-wrap: break-word !important; box-sizing: border-box !important; color: rgb(255, 0, 0); background-color: rgb(255, 255, 0);"><strong style="max-width: 100%; word-wrap: break-word !important; box-sizing: border-box !important;"><strong style="max-width: 100%; word-wrap: break-word !important; box-sizing: border-box !important;">396</strong></strong></span></strong></span></strong></strong></span></strong></span></strong></span></strong>元。推荐此套餐，因为穿1条换1条备1条，天天穿持续穿才有效果，买这样的内裤，自己穿着安心，老婆洗着更开心。</p><p style=""><strong style="max-width: 100%; word-wrap: break-word !important; box-sizing: border-box !important;"><span style="max-width: 100%; word-wrap: break-word !important; box-sizing: border-box !important; color: rgb(255, 0, 0); background-color: rgb(255, 255, 0);">卫裤尺寸：<strong style="max-width: 100%; word-wrap: break-word !important; box-sizing: border-box !important;"><span style="max-width: 100%; word-wrap: break-word !important; box-sizing: border-box !important; color: rgb(255, 255, 255); background-color: rgb(0, 176, 240);"><strong style="max-width: 100%; word-wrap: break-word !important; box-sizing: border-box !important; white-space: normal;"><span style="max-width: 100%; word-wrap: break-word !important; box-sizing: border-box !important; color: rgb(255, 0, 0); background-color: rgb(255, 255, 0);"><strong style="max-width: 100%; word-wrap: break-word !important; box-sizing: border-box !important;"><strong style="max-width: 100%; word-wrap: break-word !important; box-sizing: border-box !important;">L，XL，XXL，XXXL</strong></strong></span></strong></span></strong>（大家要根据自己的尺寸购买哦！）</span></strong></p><p><span style="background-color: rgb(255, 255, 255);"><span style="background-color: rgb(255, 255, 255);"><span style="background-color: rgb(255, 255, 255);"><span style="background-color: rgb(255, 255, 255);"><span style="background-color: rgb(255, 255, 255);"><span style="background-color: rgb(255, 255, 255);"></span></span></span></span></span></span><img data-s="300,640" data-src="http://mmbiz.qpic.cn/mmbiz/gB7yLNibDqW6CJUecRry4I57QK2DC9nPRCG7NHYgIqdur2vrtnMiavy9cnjxMl7Z1jvQF0B86tsIRotV7trrhRhg/0" data-ratio="0.4209486166007905" data-w=""  /></p><p><img data-s="300,640" data-src="http://mmbiz.qpic.cn/mmbiz/gB7yLNibDqW6CJUecRry4I57QK2DC9nPRKEA8aZOfic2S2Ur1VuKv6rkjOWDGWoUckic4sJmWuNViafueoqiciakEUQA/0" data-ratio="1" data-w="40"  /><strong style=""><span style="max-width: 100%; word-wrap: break-word !important; box-sizing: border-box !important; color: rgb(255, 0, 0); background-color: rgb(255, 255, 0);">温馨提示：</span></strong></p><p style=""><span style="max-width: 100%; word-wrap: break-word !important; box-sizing: border-box !important; font-size: 20px;"><strong style="max-width: 100%; word-wrap: break-word !important; box-sizing: border-box !important;"><span style="max-width: 100%; word-wrap: break-word !important; box-sizing: border-box !important; color: rgb(255, 255, 255); background-color: rgb(192, 0, 0);">1：货到付款，全国包邮！</span></strong></span></p><p style=""><span style="max-width: 100%; word-wrap: break-word !important; box-sizing: border-box !important; font-size: 20px;"><strong style="max-width: 100%; word-wrap: break-word !important; box-sizing: border-box !important;"><span style="max-width: 100%; word-wrap: break-word !important; box-sizing: border-box !important; color: rgb(255, 255, 255); background-color: rgb(192, 0, 0);">2：正品支持，国家检测！</span></strong><strong style="max-width: 100%; word-wrap: break-word !important; box-sizing: border-box !important;"><span style="max-width: 100%; word-wrap: break-word !important; box-sizing: border-box !important; color: rgb(255, 255, 255); background-color: rgb(192, 0, 0);"></span></strong></span></p><p style=""><span style="max-width: 100%; word-wrap: break-word !important; box-sizing: border-box !important; font-size: 20px;"><strong style="max-width: 100%; word-wrap: break-word !important; box-sizing: border-box !important;"><span style="max-width: 100%; word-wrap: break-word !important; box-sizing: border-box !important; color: rgb(255, 255, 255); background-color: rgb(192, 0, 0);">3：<strong style="max-width: 100%; word-wrap: break-word !important; box-sizing: border-box !important;"><span style="max-width: 100%; word-wrap: break-word !important; box-sizing: border-box !important;">顺风快递，闪电发货！</span></strong></span></strong></span></p><p style=""><span style="max-width: 100%; word-wrap: break-word !important; box-sizing: border-box !important; font-size: 20px;"><strong style="max-width: 100%; word-wrap: break-word !important; box-sizing: border-box !important;"><span style="max-width: 100%; word-wrap: break-word !important; box-sizing: border-box !important; color: rgb(255, 255, 255); background-color: rgb(192, 0, 0);"><strong style="max-width: 100%; word-wrap: break-word !important; box-sizing: border-box !important;"><span style="max-width: 100%; word-wrap: break-word !important; box-sizing: border-box !important;"><strong style="font-size: 20px; white-space: normal; max-width: 100%; word-wrap: break-word !important; box-sizing: border-box !important;"><span style="max-width: 100%; color: rgb(255, 255, 255); background-color: rgb(192, 0, 0); word-wrap: break-word !important; box-sizing: border-box !important;">4：<strong style="max-width: 100%; word-wrap: break-word !important; box-sizing: border-box !important;"><span style="max-width: 100%; word-wrap: break-word !important; box-sizing: border-box !important;">2014冬款上市。</span></strong></span></strong></span></strong></span></strong></span></p><p style=""><span style="max-width: 100%; word-wrap: break-word !important; box-sizing: border-box !important; color: rgb(192, 0, 0); background-color: rgb(255, 192, 0);">支持到国家相关部门进行正品检测，如是假货，愿承担法律责任并支付所有检测费用。</span></p><p><br  /></p><p><img data-s="300,640" data-src="http://mmbiz.qpic.cn/mmbiz/gB7yLNibDqW6CJUecRry4I57QK2DC9nPRKEA8aZOfic2S2Ur1VuKv6rkjOWDGWoUckic4sJmWuNViafueoqiciakEUQA/0" data-ratio="1" data-w="40"  /><strong style=""><span style="max-width: 100%; word-wrap: break-word !important; box-sizing: border-box !important; color: rgb(255, 0, 0); background-color: rgb(255, 255, 0);">抢购方式</span></strong><span style=""><strong style="max-width: 100%; word-wrap: break-word !important; box-sizing: border-box !important; padding: 0px; margin: 0px;">：</strong></span></p><p style="">点击下面<strong style="max-width: 100%; word-wrap: break-word !important; box-sizing: border-box !important;"><span style="max-width: 100%; word-wrap: break-word !important; box-sizing: border-box !important; color: rgb(255, 255, 255); background-color: rgb(0, 176, 240);">阅读原文</span></strong>，填写【姓名、电话、收货地址、购买数量】即可下单，一般3-5天送到，货到付款，当面交易，零风险。</p><p><img data-src="http://mmbiz.qpic.cn/mmbiz/gB7yLNibDqW6CJUecRry4I57QK2DC9nPRPFjVC6uTyhJHkpqF4Nj49ogfKrmfVnzVq3KXjHAHC95K3p8Vhlfxiag/0" data-ratio="0.09288537549407115" data-w=""  /></p></div>
+
+                    <script type="text/javascript">
+                        var first_sceen__time = (+new Date());
+                    </script>
+                    <link rel="stylesheet" type="text/css" href="http://res.wx.qq.com/mmbizwap/zh_CN/htmledition/style/page/appmsg/page_mp_article_improve_combo22ebff.css">
+
+                    
+                    <div class="rich_media_tool" id="js_toobar">
+
+                                                <div id="js_read_area" class="media_tool_meta link_primary meta_primary" style="display:none;">阅读 <span id="readNum"></span></div>
+
+                        <a style="display:none;" class="media_tool_meta meta_primary link_primary meta_praise" href="javascript:void(0);" id="like">
+                            <i class="icon_praise_gray"></i><span class="praise_num" id="likeNum"></span>
+                        </a>
+
+                        <a id="js_report_article" class="media_tool_meta link_primary meta_extra" href="javascript:void(0);">举报</a>
+
+                    </div>
+                </div>
+
+                
+                <div id="js_bottom_ad_area"></div>
+
+                
+                <div id="js_iframetest" style="display:none;"></div>
+
+                
+                               
+            </div>
+            <div id="js_pc_qr_code" class="qr_code_pc_outer" style="display:none;">
+                <div class="qr_code_pc_inner">
+                    <div class="qr_code_pc">
+                        <img id="js_pc_qr_code_img" class="qr_code_pc_img">
+                        <p>微信扫一扫<br>获得更多内容</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+        
+        <script>window.moon_map = {"a/gotoappdetail.js":"/mmbizwap/zh_CN/htmledition/js/a/gotoappdetail22c04a.js","a/ios.js":"/mmbizwap/zh_CN/htmledition/js/a/ios224ef3.js","a/android.js":"/mmbizwap/zh_CN/htmledition/js/a/android22772d.js","a/profile.js":"/mmbizwap/zh_CN/htmledition/js/a/profile224ef3.js","biz_common/utils/url/parse.js":"/mmbizwap/zh_CN/htmledition/js/biz_common/utils/url/parse224ef3.js","biz_common/utils/report.js":"/mmbizwap/zh_CN/htmledition/js/biz_common/utils/report224ef3.js","biz_common/utils/cookie.js":"/mmbizwap/zh_CN/htmledition/js/biz_common/utils/cookie224ef3.js","appmsg/like.js":"/mmbizwap/zh_CN/htmledition/js/appmsg/like224ef3.js","appmsg/a.js":"/mmbizwap/zh_CN/htmledition/js/appmsg/a22ec5d.js","biz_common/tmpl.js":"/mmbizwap/zh_CN/htmledition/js/biz_common/tmpl224ef3.js","biz_common/dom/class.js":"/mmbizwap/zh_CN/htmledition/js/biz_common/dom/class224ef3.js","biz_wap/utils/ajax.js":"/mmbizwap/zh_CN/htmledition/js/biz_wap/utils/ajax22589f.js","biz_common/utils/string/html.js":"/mmbizwap/zh_CN/htmledition/js/biz_common/utils/string/html224ef3.js","biz_common/ui/imgonepx.js":"/mmbizwap/zh_CN/htmledition/js/biz_common/ui/imgonepx224ef3.js","biz_common/dom/attr.js":"/mmbizwap/zh_CN/htmledition/js/biz_common/dom/attr224ef3.js","appmsg/report.js":"/mmbizwap/zh_CN/htmledition/js/appmsg/report224ef3.js","appmsg/report_and_source.js":"/mmbizwap/zh_CN/htmledition/js/appmsg/report_and_source224ef3.js","appmsg/share.js":"/mmbizwap/zh_CN/htmledition/js/appmsg/share224ef3.js","appmsg/comment.js":"/mmbizwap/zh_CN/htmledition/js/appmsg/comment22dbe5.js","appmsg/page_pos.js":"/mmbizwap/zh_CN/htmledition/js/appmsg/page_pos22ec5d.js","appmsg/cdn_speed_report.js":"/mmbizwap/zh_CN/htmledition/js/appmsg/cdn_speed_report224ef3.js","appmsg/iframe.js":"/mmbizwap/zh_CN/htmledition/js/appmsg/iframe22c41c.js","appmsg/review_image.js":"/mmbizwap/zh_CN/htmledition/js/appmsg/review_image224ef3.js","appmsg/outer_link.js":"/mmbizwap/zh_CN/htmledition/js/appmsg/outer_link224ef3.js","biz_wap/jsapi/core.js":"/mmbizwap/zh_CN/htmledition/js/biz_wap/jsapi/core22589f.js","biz_wap/utils/mmversion.js":"/mmbizwap/zh_CN/htmledition/js/biz_wap/utils/mmversion224ef3.js","biz_common/dom/event.js":"/mmbizwap/zh_CN/htmledition/js/biz_common/dom/event22772d.js","appmsg/async.js":"/mmbizwap/zh_CN/htmledition/js/appmsg/async22ec5d.js","biz_wap/ui/lazyload_img.js":"/mmbizwap/zh_CN/htmledition/js/biz_wap/ui/lazyload_img224ef3.js","biz_common/log/jserr.js":"/mmbizwap/zh_CN/htmledition/js/biz_common/log/jserr22589f.js","appmsg/index.js":"/mmbizwap/zh_CN/htmledition/js/appmsg/index2286ea.js"};window.moon_crossorigin = true;</script><script type="text/javascript" src="http://res.wx.qq.com/mmbizwap/zh_CN/htmledition/js/biz_wap/moon224ef3.js" crossorigin></script>
+    <script id="t_cmt" type="text/html">
+        <li class="discuss_item">
+            <span class="discuss_time"><#=time#></span>
+            <div class="user_info">
+                <strong class="nickname"><#=nick_name#></strong>
+                <img class="avatar" src="<#=logo_url#>">
+            </div>
+            <div class="discuss_message">
+                <span class="discuss_status"><#=status#></span>
+                <#=content#>
+            </div>
+        </li>
+    </script>
+
+  <script id="t_ad" type="text/html">
+    <div class="rich_media_extra" id="gdt_area">
+        <# if(pos_type==0){ #>
+        <div class="line_tips_wrp">
+            <span class="line_tips">推广</span>
+        </div>
+        <# } #>
+        <div class="js_ad_link extra_link" data-type="<#=type#>" data-url="<#=url#>" data-rl="<#=rl#>"  data-aid="<#=aid#>" data-pt="<#=pt#>" data-tid="<#=traceid#>" data-gid="<#=group_id#>" data-apurl="<#=apurl#>">
+            <# if(pt==1){ #>
+            <#=hint_txt#>
+            <img class="icon_arrow_gray" src="http://res.wx.qq.com/mmbizwap/zh_CN/htmledition/images/icon/common/icon_arrow_gray1ef6d4.png">
+            <img class="icon_loading_white icon_after" style="display:none;" id="loading_<#=traceid#>" src="http://res.wx.qq.com/mmbizwap/zh_CN/htmledition/images/icon/common/icon_loading_white22c04a.gif">
+            <# }else if(pt==2){ #>
+            <img class="appmsg_banner" src="<#=image_url#>">
+            <i class="promotion_tag"></i>
+            <# }else if(pt==7){ #>
+            
+            <div class="preview_group preview_card">
+                <div class="preview_group_inner card_inner">
+                    <div class="preview_group_info">
+                        <strong class="preview_group_title2"><#=hint_txt#></strong>
+                        <div class="preview_group_desc"><#=ad_desc#></div>
+                        <img src="<#=image_url#>" alt="" class="preview_card_avatar">
+                    </div>
+                </div>                        
+            </div>
+            <# }else if(pt==100){ #>
+            <div class="preview_group">
+                <div class="preview_group_inner">
+                    <div class="preview_group_info append_btn">
+                        <strong class="preview_group_title"><#=biz_info.nick_name#></strong>
+                        <div class="preview_group_desc"><#=hint_txt#></div>
+                        <# if(!!biz_info.head_img){ #>
+                        <img src="<#=biz_info.head_img#>" alt="" class="preview_group_avatar br_radius">
+                        <# }else{ #>
+                        <img class="preview_group_avatar br_radius" src="http://mmbiz.qpic.cn/mmbiz/a5icZrUmbV8p5jb6RZ8aYfjfS2AVle8URwBt8QIu6XbGewB9wiaWYWkPwq4R7pfdsFibuLkic16UcxDSNYtB8HnC1Q/0" alt="<#=biz_info.nick_name#>">
+                        <# } #>                                 
+                    </div>
+                    <div class="preview_group_opr">
+                        <a id="viewProfile" <# if(biz_info.is_subscribed == 0){ #>style="display:none"<# } #> class="btn btn_inline btn_primary js_ad_btn" href="javascript:void(0);">查看</a>
+                        <a id="addContact" data-url="<#=url#>" data-type="<#=type#>" data-tid="<#=traceid#>" data-rl="<#=rl#>" <# if(biz_info.is_subscribed ==1){ #>style="display:none"<# } #> class="btn btn_inline btn_primary js_ad_btn" href="javascript:void(0);">关注</a>
+                    </div>
+                </div>
+            </div>
+            <# }else if(pt==102){ #>
+            <div class="preview_group">
+                <div class="preview_group_inner">
+                    <div class="preview_group_info append_btn">
+                        <strong class="preview_group_title"><#=app_info.app_name#></strong>
+                        <div class="preview_group_desc"><#=hint_txt#></div>
+                        <img src="<#=app_info.icon_url#>" alt="" class="preview_group_avatar br_radius">
+                    </div>
+                    <div class="preview_group_opr">
+                        <a id="js_app_action" class="btn btn_inline btn_primary js_ad_btn btn_download" href="javascript:void(0);">下载</a>
+                    </div>
+                </div>
+            </div>
+            <# }else if(pt==101){ #>
+            <div class="preview_group preview_card">
+                <div class="preview_group_inner card_inner">                            
+                    <div class="preview_group_info append_btn">
+                        <strong class="preview_group_title"><#=app_info.app_name#></strong>
+                        <div class="preview_group_desc"><#=hint_txt#></div>
+                        <img src="<#=app_info.icon_url#>" alt="" class="preview_card_avatar">                               
+                    </div>
+                    <div class="preview_group_opr">
+                        <a href="javascript:void(0);" id="js_app_action" class="btn btn_inline btn_primary js_ad_btn">下载</a>
+                    </div>
+                </div>                        
+            </div>
+            <# }else if(pt==103||pt==104){ #>
+            <div class="preview_group obvious_app">
+                <div class="preview_group_inner">
+                    <div class="pic_app">
+                        <img src="<#=image_url#>" alt="">
+                    </div>
+                    <div class="info_app">
+                        <p class="name_app"><#=app_info.app_name#></p>
+                        <# if(pt==103){ #>
+                        <p class="profile_app"><span class="fun_exp"><#=app_info._category#></span><em>|</em><span class="compacity"><#=app_info._app_size#></span></p>
+                        <# } else if(pt==104){ #>
+                        <p class="profile_app"><span class="fun_exp"><#=app_info._app_size#></span><em>|</em><span class="compacity"><#=app_info._down_count#></span></p>
+                        <# } #>
+                        <div class="dm_app">
+                            <a href="javascript:void(0);" id="js_appdetail_action" class="ad_btn btn_download js_ad_btn">下载</a>
+                            <p class="extra_info">来自<# if(pt==103){ #>Appstore<# }else{ #>腾讯应用宝<# } #></p>
+                        </div>
+                    </div>
+                </div>            
+            </div>
+            <# } #>
+        </div>
+    </div>
+  </script>
+  <script type="text/javascript">
+      var tid = "";
+      var aid = "";
+      var appuin = "MzA3NjAxOTk4NA==";
+
+      //下边这两个值为什么调转过来呢？是因为要跟推广页的字段保持一致。。坑爹
+      var source = "";
+      var scene = 75;
+      
+      var itemidx = "";
+      var nickname = "乐活购物";
+      var ct = "1414821402";
+      var user_name = "gh_05e8bdfeaa8d";
+      var fakeid   = "";
+      var version   = "";
+      var is_limit_user   = "0";
+      var msg_title = "英国卫裤第七代&nbsp;|&nbsp;男人，你内裤穿对了吗？？？你考虑过”它“的感受吗？";
+      var msg_desc = "你，性福吗？日前公布的一项“2011全球性福调查报告”称，中国人群的性生活频率高于全球平均值，但满意度在下降";
+      var msg_cdn_url = "http://mmbiz.qpic.cn/mmbiz/gB7yLNibDqW5qK0ZYeia1CNamdsicXlDPzTtpme5KwPWsuTWFd6hYa60xzKnpkOxLsKe93K3dXDDmbzAjjngC6PZg/0";
+      var msg_link = "http://mp.weixin.qq.com/s?__biz=MzA3NjAxOTk4NA==&amp;mid=201182419&amp;idx=1&amp;sn=82f0cc2b31159bc548f54e16b769782f#rd";
+      var user_uin = "0"*1;
+      var msg_source_url = '';
+      var networkType;
+      var appmsgid = '' || '201182419';
+      var comment_id = "0" * 1;
+      var comment_enabled = "" * 1;
+
+      var devicetype = "";
+
+      
+            seajs.use("appmsg/index.js");
+  </script>
+
+    </body>
+</html>
+
